@@ -1,9 +1,9 @@
 # HackNexus 2.0 | Team Project Repository
 
 ## Project Information
-* **Team Name:** [Enter Team Name]
-* **Project Title:** [Enter Project Title]
-* **Track/Theme:** [Enter Track]
+* **Team Name:** TechnoSquad
+* **Project Title:**  Intelligent Stock Portfolio Management System
+* **Track/Theme:** FINTECH
 
 ## Project Description
 Provide a concise overview of the problem you are solving and your proposed solution.
