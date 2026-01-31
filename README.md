@@ -2,7 +2,7 @@
 
 A modern, full-stack web application for managing stock portfolios, built with React, TypeScript, and Firebase.
 
-> **Note:** This is the Firebase version of the project. The original version used Supabase. See [MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md) for details on the conversion.
+
 
 ## 🚀 Features
 
