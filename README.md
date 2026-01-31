@@ -1,4 +1,4 @@
-# Stock Portfolio Management System - Firebase Version
+# Stock Portfolio Management System
 
 A modern, full-stack web application for managing stock portfolios, built with React, TypeScript, and Firebase.
 
